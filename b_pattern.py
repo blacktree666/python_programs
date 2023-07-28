@@ -12,4 +12,4 @@ for row in range(7):
     print()
 
 
-
+# this is the python program to print B pattern with green color
